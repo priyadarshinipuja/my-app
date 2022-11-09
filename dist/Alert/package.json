@@ -1,0 +1,10 @@
+{
+  "name": "@priyadarshinipuja/my-app/Alert",
+  "private": true,
+  "main": "../cjs/index.js",
+  "module": "./index.js",
+  "types": "./index.d.ts",
+  "dependencies": {
+    "react": "^16.8.6 || ^17.0.0"
+  }
+}
